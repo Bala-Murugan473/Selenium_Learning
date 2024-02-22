@@ -17,7 +17,7 @@ IWindow window = Driver.Manage().Window;
 |**Position**| Gets or sets the position of the browser window relative to the upper-left corner of the screen.| *Driver.Manage().Window.Position = new Point(x,y);<br>**Point** p = Driver.Manage().Window.Position;*|
 
 ```\
-"Size" and "Position" are *truct from `System.Drawing` package.
+"Size" and "Position" are Struct from `System.Drawing` package.
 
 Top left corner is the zero offset for `Position`
 
