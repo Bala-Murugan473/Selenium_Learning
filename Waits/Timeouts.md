@@ -15,7 +15,7 @@ Mostly we use this interface by method chaining only. !! Not like above !!
 
 This  interface provides three timeout proerties as below,
 
-## 1.ImplicitWait
+## 1. ImplicitWait
 
 * *It is used to tell the web driver to wait for certain time before throwing NoSuchElementException*.
 * Gets or sets the implicit wait timeout, which is the amount of time the driver should wait when searching for an element if it is not immediately present
