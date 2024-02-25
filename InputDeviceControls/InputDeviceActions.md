@@ -31,6 +31,6 @@ Calling the perform method after any method or sequence of method is mandatory.
 ## Types of Actions
 
 * [Keyboard Actions](KeyboardInteractions.md)
-* [Mouse Actions](KeyboardInteractions.md)
-* [Scroll Wheel]
+* [Mouse Actions](MouseInteractions.md)
+* [Scroll Wheel](ScrollWheelInteractons.md)
 * [Pen Actions]

@@ -39,7 +39,7 @@ In a browser we can access the element's locator by hoverover the element, mouse
 
 This will launch the html dev tool, where we can see the page html and highlight the inspected element.
 
-![html dev tool](../images/devtool.png)
+![html dev tool](../.images/devtool.png)
 
 You can use `inspect tool` to inspect as well.
 
