@@ -43,7 +43,7 @@ SelectElement Slct = new SelectElement(Element);
 
 |PROPERTIES|DEFINITION|SYNTAX|
 |--------|----------|------|
-|***IsMultiple***|Indicates weather the dropdown supports muliple selection or not.<br>True, if multi selection allowed.|*bool SupportMultiOption = Slct.IsMultiple;*|
+|***IsMultiple***|Indicates whether the dropdown supports muliple selection or not.<br>True, if multi selection allowed.|*bool SupportMultiOption = Slct.IsMultiple;*|
 |***Options***|Returns all options in dropdown as webelement|*IList \<IWebElement> Options = Slct.Options;*|
 |***SelectedOption***|Returns the selected option as webelement.<br>For multi-selection, it returns the first option|*IWebElement Selected = Slct.SelectedOption;*|
 |***AllSelectedOptions***|Returns all selected options as webelement.|*IList \<IWebElement> AllOptions = Slct.AllSelectedOptions;*|
